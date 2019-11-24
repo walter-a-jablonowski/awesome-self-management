@@ -6,7 +6,7 @@ From time 2 time I will add most valuable advice that I collected.
 
 Table of contents
 
-* [Reduce complexity](#Reduce_complexity)
+* [Reduce complexity](#reduce-complexity)
 
 * [License](#License)
 
