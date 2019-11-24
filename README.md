@@ -1,4 +1,4 @@
-# Awesome self management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome self-management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **Most valuable advice** *new*
 
