@@ -1,6 +1,6 @@
-# Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome self management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-**Awesome self-management advice** *new*
+**Most valuable advice** *new*
 
 From time 2 time I will add most valuable advice that I collected.
 
