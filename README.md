@@ -10,7 +10,7 @@ Table of contents
 
 * [License](#License)
 
-## PHP
+## Reduce complexity
 
 > "People think focus means saying yes to the thing you’ve got to focus on. But that’s
 > no what it means at all. It means saying no to the hundred other good ideas that there are."
