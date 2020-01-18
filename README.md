@@ -12,7 +12,7 @@ Table of contents
 
 ## Reduce complexity
 
-In my opinion this might be the most valuable one, because this is where the huge success of more than one silion valley founder came from.
+In my opinion this is one of the most valuable ones.
 
 > "People think focus means saying yes to the thing you’ve got to focus on. But that’s
 > no what it means at all. It means saying no to the hundred other good ideas that there are."
